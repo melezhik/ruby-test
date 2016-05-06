@@ -1,6 +1,7 @@
 {
   "name" : "ruby-test",
   "version" : "0.1.2",
-  "description" : "test ruby plugin"
+  "description" : "test ruby plugin",
+  "url" : "https://github.com/melezhik/ruby-test.git"
 }
 
